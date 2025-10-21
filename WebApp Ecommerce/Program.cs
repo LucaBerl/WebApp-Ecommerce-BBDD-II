@@ -1,7 +1,17 @@
+using Ecommerce.Infraestructura;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+
+//  Lee la "dirección" (Connection String) desde appsettings.json
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+
+// Registra ECommerceDbContext como un servicio
+builder.Services.AddDbContext<EcommerceDbContext>(options =>
+    options.UseSqlServer(connectionString));
 
 var app = builder.Build();
 

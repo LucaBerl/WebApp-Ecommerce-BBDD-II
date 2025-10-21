@@ -3,44 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Luca\\Desktop\\Programaci\u00F3n\\Base de datos II\\WebApp Ecommerce\\WebApp-Ecommerce-BBDD-II\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2DACC5A-113F-4931-A2A2-4D52000FC57B}|Ecommerce.Dominio\\Ecommerce.Dominio.csproj|c:\\users\\luca\\desktop\\programaci\u00F3n\\base de datos ii\\webapp ecommerce\\webapp-ecommerce-bbdd-ii\\ecommerce.dominio\\entidades\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2DACC5A-113F-4931-A2A2-4D52000FC57B}|Ecommerce.Dominio\\Ecommerce.Dominio.csproj|solutionrelative:ecommerce.dominio\\entidades\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62996A91-CBBC-4631-B796-84FE5B973A6B}|WebApp Ecommerce\\WebApp Ecommerce.csproj|c:\\users\\luca\\desktop\\programaci\u00F3n\\base de datos ii\\webapp ecommerce\\webapp-ecommerce-bbdd-ii\\webapp ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62996A91-CBBC-4631-B796-84FE5B973A6B}|WebApp Ecommerce\\WebApp Ecommerce.csproj|solutionrelative:webapp ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2DACC5A-113F-4931-A2A2-4D52000FC57B}|Ecommerce.Dominio\\Ecommerce.Dominio.csproj|c:\\users\\luca\\desktop\\programaci\u00F3n\\base de datos ii\\webapp ecommerce\\webapp-ecommerce-bbdd-ii\\ecommerce.dominio\\entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2DACC5A-113F-4931-A2A2-4D52000FC57B}|Ecommerce.Dominio\\Ecommerce.Dominio.csproj|solutionrelative:ecommerce.dominio\\entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2DACC5A-113F-4931-A2A2-4D52000FC57B}|Ecommerce.Dominio\\Ecommerce.Dominio.csproj|c:\\users\\luca\\desktop\\programaci\u00F3n\\base de datos ii\\webapp ecommerce\\webapp-ecommerce-bbdd-ii\\ecommerce.dominio\\entidades\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2DACC5A-113F-4931-A2A2-4D52000FC57B}|Ecommerce.Dominio\\Ecommerce.Dominio.csproj|solutionrelative:ecommerce.dominio\\entidades\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2DACC5A-113F-4931-A2A2-4D52000FC57B}|Ecommerce.Dominio\\Ecommerce.Dominio.csproj|c:\\users\\luca\\desktop\\programaci\u00F3n\\base de datos ii\\webapp ecommerce\\webapp-ecommerce-bbdd-ii\\ecommerce.dominio\\entidades\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2DACC5A-113F-4931-A2A2-4D52000FC57B}|Ecommerce.Dominio\\Ecommerce.Dominio.csproj|solutionrelative:ecommerce.dominio\\entidades\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2DACC5A-113F-4931-A2A2-4D52000FC57B}|Ecommerce.Dominio\\Ecommerce.Dominio.csproj|c:\\users\\luca\\desktop\\programaci\u00F3n\\base de datos ii\\webapp ecommerce\\webapp-ecommerce-bbdd-ii\\ecommerce.dominio\\entidades\\imagenarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2DACC5A-113F-4931-A2A2-4D52000FC57B}|Ecommerce.Dominio\\Ecommerce.Dominio.csproj|solutionrelative:ecommerce.dominio\\entidades\\imagenarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2DACC5A-113F-4931-A2A2-4D52000FC57B}|Ecommerce.Dominio\\Ecommerce.Dominio.csproj|c:\\users\\luca\\desktop\\programaci\u00F3n\\base de datos ii\\webapp ecommerce\\webapp-ecommerce-bbdd-ii\\ecommerce.dominio\\entidades\\envio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2DACC5A-113F-4931-A2A2-4D52000FC57B}|Ecommerce.Dominio\\Ecommerce.Dominio.csproj|solutionrelative:ecommerce.dominio\\entidades\\envio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2DACC5A-113F-4931-A2A2-4D52000FC57B}|Ecommerce.Dominio\\Ecommerce.Dominio.csproj|c:\\users\\luca\\desktop\\programaci\u00F3n\\base de datos ii\\webapp ecommerce\\webapp-ecommerce-bbdd-ii\\ecommerce.dominio\\entidades\\domiciliocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2DACC5A-113F-4931-A2A2-4D52000FC57B}|Ecommerce.Dominio\\Ecommerce.Dominio.csproj|solutionrelative:ecommerce.dominio\\entidades\\domiciliocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2DACC5A-113F-4931-A2A2-4D52000FC57B}|Ecommerce.Dominio\\Ecommerce.Dominio.csproj|c:\\users\\luca\\desktop\\programaci\u00F3n\\base de datos ii\\webapp ecommerce\\webapp-ecommerce-bbdd-ii\\ecommerce.dominio\\entidades\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2DACC5A-113F-4931-A2A2-4D52000FC57B}|Ecommerce.Dominio\\Ecommerce.Dominio.csproj|solutionrelative:ecommerce.dominio\\entidades\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2DACC5A-113F-4931-A2A2-4D52000FC57B}|Ecommerce.Dominio\\Ecommerce.Dominio.csproj|c:\\users\\luca\\desktop\\programaci\u00F3n\\base de datos ii\\webapp ecommerce\\webapp-ecommerce-bbdd-ii\\ecommerce.dominio\\entidades\\clienteusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2DACC5A-113F-4931-A2A2-4D52000FC57B}|Ecommerce.Dominio\\Ecommerce.Dominio.csproj|solutionrelative:ecommerce.dominio\\entidades\\clienteusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2DACC5A-113F-4931-A2A2-4D52000FC57B}|Ecommerce.Dominio\\Ecommerce.Dominio.csproj|c:\\users\\luca\\desktop\\programaci\u00F3n\\base de datos ii\\webapp ecommerce\\webapp-ecommerce-bbdd-ii\\ecommerce.dominio\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2DACC5A-113F-4931-A2A2-4D52000FC57B}|Ecommerce.Dominio\\Ecommerce.Dominio.csproj|solutionrelative:ecommerce.dominio\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48438487-98C9-400A-8834-837BE352AA87}|Ecommerce.Infraestructura\\Ecommerce.Infraestructura.csproj|c:\\users\\luca\\desktop\\programaci\u00F3n\\base de datos ii\\webapp ecommerce\\webapp-ecommerce-bbdd-ii\\ecommerce.infraestructura\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48438487-98C9-400A-8834-837BE352AA87}|Ecommerce.Infraestructura\\Ecommerce.Infraestructura.csproj|solutionrelative:ecommerce.infraestructura\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,131 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\Luca\\Desktop\\Programaci\u00F3n\\Base de datos II\\WebApp Ecommerce\\WebApp-Ecommerce-BBDD-II\\Ecommerce.Dominio\\Entidades\\Producto.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Dominio\\Entidades\\Producto.cs",
-              "ToolTip": "C:\\Users\\Luca\\Desktop\\Programaci\u00F3n\\Base de datos II\\WebApp Ecommerce\\WebApp-Ecommerce-BBDD-II\\Ecommerce.Dominio\\Entidades\\Producto.cs",
-              "RelativeToolTip": "Ecommerce.Dominio\\Entidades\\Producto.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Title": "EcommerceDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Luca\\Desktop\\Programaci\u00F3n\\Base de datos II\\WebApp Ecommerce\\WebApp-Ecommerce-BBDD-II\\Ecommerce.Infraestructura\\EcommerceDbContext.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Infraestructura\\EcommerceDbContext.cs",
+              "ToolTip": "C:\\Users\\Luca\\Desktop\\Programaci\u00F3n\\Base de datos II\\WebApp Ecommerce\\WebApp-Ecommerce-BBDD-II\\Ecommerce.Infraestructura\\EcommerceDbContext.cs",
+              "RelativeToolTip": "Ecommerce.Infraestructura\\EcommerceDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T15:20:37.011Z",
+              "WhenOpened": "2025-10-21T23:27:57.405Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Pedido.cs",
-              "DocumentMoniker": "C:\\Users\\Luca\\Desktop\\Programaci\u00F3n\\Base de datos II\\WebApp Ecommerce\\WebApp-Ecommerce-BBDD-II\\Ecommerce.Dominio\\Entidades\\Pedido.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Dominio\\Entidades\\Pedido.cs",
-              "ToolTip": "C:\\Users\\Luca\\Desktop\\Programaci\u00F3n\\Base de datos II\\WebApp Ecommerce\\WebApp-Ecommerce-BBDD-II\\Ecommerce.Dominio\\Entidades\\Pedido.cs",
-              "RelativeToolTip": "Ecommerce.Dominio\\Entidades\\Pedido.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luca\\Desktop\\Programaci\u00F3n\\Base de datos II\\WebApp Ecommerce\\WebApp-Ecommerce-BBDD-II\\WebApp Ecommerce\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp Ecommerce\\Program.cs",
+              "ToolTip": "C:\\Users\\Luca\\Desktop\\Programaci\u00F3n\\Base de datos II\\WebApp Ecommerce\\WebApp-Ecommerce-BBDD-II\\WebApp Ecommerce\\Program.cs",
+              "RelativeToolTip": "WebApp Ecommerce\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T15:20:36.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Pago.cs",
-              "DocumentMoniker": "C:\\Users\\Luca\\Desktop\\Programaci\u00F3n\\Base de datos II\\WebApp Ecommerce\\WebApp-Ecommerce-BBDD-II\\Ecommerce.Dominio\\Entidades\\Pago.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Dominio\\Entidades\\Pago.cs",
-              "ToolTip": "C:\\Users\\Luca\\Desktop\\Programaci\u00F3n\\Base de datos II\\WebApp Ecommerce\\WebApp-Ecommerce-BBDD-II\\Ecommerce.Dominio\\Entidades\\Pago.cs",
-              "RelativeToolTip": "Ecommerce.Dominio\\Entidades\\Pago.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T15:20:17.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Marca.cs",
-              "DocumentMoniker": "C:\\Users\\Luca\\Desktop\\Programaci\u00F3n\\Base de datos II\\WebApp Ecommerce\\WebApp-Ecommerce-BBDD-II\\Ecommerce.Dominio\\Entidades\\Marca.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Dominio\\Entidades\\Marca.cs",
-              "ToolTip": "C:\\Users\\Luca\\Desktop\\Programaci\u00F3n\\Base de datos II\\WebApp Ecommerce\\WebApp-Ecommerce-BBDD-II\\Ecommerce.Dominio\\Entidades\\Marca.cs",
-              "RelativeToolTip": "Ecommerce.Dominio\\Entidades\\Marca.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T15:20:08.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ImagenArticulo.cs",
-              "DocumentMoniker": "C:\\Users\\Luca\\Desktop\\Programaci\u00F3n\\Base de datos II\\WebApp Ecommerce\\WebApp-Ecommerce-BBDD-II\\Ecommerce.Dominio\\Entidades\\ImagenArticulo.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Dominio\\Entidades\\ImagenArticulo.cs",
-              "ToolTip": "C:\\Users\\Luca\\Desktop\\Programaci\u00F3n\\Base de datos II\\WebApp Ecommerce\\WebApp-Ecommerce-BBDD-II\\Ecommerce.Dominio\\Entidades\\ImagenArticulo.cs",
-              "RelativeToolTip": "Ecommerce.Dominio\\Entidades\\ImagenArticulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T15:19:43.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Envio.cs",
-              "DocumentMoniker": "C:\\Users\\Luca\\Desktop\\Programaci\u00F3n\\Base de datos II\\WebApp Ecommerce\\WebApp-Ecommerce-BBDD-II\\Ecommerce.Dominio\\Entidades\\Envio.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Dominio\\Entidades\\Envio.cs",
-              "ToolTip": "C:\\Users\\Luca\\Desktop\\Programaci\u00F3n\\Base de datos II\\WebApp Ecommerce\\WebApp-Ecommerce-BBDD-II\\Ecommerce.Dominio\\Entidades\\Envio.cs",
-              "RelativeToolTip": "Ecommerce.Dominio\\Entidades\\Envio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T15:19:24.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DomicilioCliente.cs",
-              "DocumentMoniker": "C:\\Users\\Luca\\Desktop\\Programaci\u00F3n\\Base de datos II\\WebApp Ecommerce\\WebApp-Ecommerce-BBDD-II\\Ecommerce.Dominio\\Entidades\\DomicilioCliente.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Dominio\\Entidades\\DomicilioCliente.cs",
-              "ToolTip": "C:\\Users\\Luca\\Desktop\\Programaci\u00F3n\\Base de datos II\\WebApp Ecommerce\\WebApp-Ecommerce-BBDD-II\\Ecommerce.Dominio\\Entidades\\DomicilioCliente.cs",
-              "RelativeToolTip": "Ecommerce.Dominio\\Entidades\\DomicilioCliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T15:18:57.976Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DetallePedido.cs",
-              "DocumentMoniker": "C:\\Users\\Luca\\Desktop\\Programaci\u00F3n\\Base de datos II\\WebApp Ecommerce\\WebApp-Ecommerce-BBDD-II\\Ecommerce.Dominio\\Entidades\\DetallePedido.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Dominio\\Entidades\\DetallePedido.cs",
-              "ToolTip": "C:\\Users\\Luca\\Desktop\\Programaci\u00F3n\\Base de datos II\\WebApp Ecommerce\\WebApp-Ecommerce-BBDD-II\\Ecommerce.Dominio\\Entidades\\DetallePedido.cs",
-              "RelativeToolTip": "Ecommerce.Dominio\\Entidades\\DetallePedido.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T15:18:45.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ClienteUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\Luca\\Desktop\\Programaci\u00F3n\\Base de datos II\\WebApp Ecommerce\\WebApp-Ecommerce-BBDD-II\\Ecommerce.Dominio\\Entidades\\ClienteUsuario.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Dominio\\Entidades\\ClienteUsuario.cs",
-              "ToolTip": "C:\\Users\\Luca\\Desktop\\Programaci\u00F3n\\Base de datos II\\WebApp Ecommerce\\WebApp-Ecommerce-BBDD-II\\Ecommerce.Dominio\\Entidades\\ClienteUsuario.cs",
-              "RelativeToolTip": "Ecommerce.Dominio\\Entidades\\ClienteUsuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T15:18:11.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\Luca\\Desktop\\Programaci\u00F3n\\Base de datos II\\WebApp Ecommerce\\WebApp-Ecommerce-BBDD-II\\Ecommerce.Dominio\\Entidades\\Cliente.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Dominio\\Entidades\\Cliente.cs",
-              "ToolTip": "C:\\Users\\Luca\\Desktop\\Programaci\u00F3n\\Base de datos II\\WebApp Ecommerce\\WebApp-Ecommerce-BBDD-II\\Ecommerce.Dominio\\Entidades\\Cliente.cs",
-              "RelativeToolTip": "Ecommerce.Dominio\\Entidades\\Cliente.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T15:17:23.538Z",
+              "WhenOpened": "2025-10-21T23:13:24.264Z",
               "EditorCaption": ""
             }
           ]
