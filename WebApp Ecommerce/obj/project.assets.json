@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luca\\Desktop\\Programación\\Base de datos II\\WebApp Ecommerce\\WebApp Ecommerce BBDD II\\WebApp Ecommerce\\WebApp Ecommerce.csproj",
+      "projectUniqueName": "C:\\Users\\Luca\\Desktop\\Programación\\Base de datos II\\WebApp Ecommerce\\WebApp-Ecommerce-BBDD-II\\WebApp Ecommerce\\WebApp Ecommerce.csproj",
       "projectName": "WebApp Ecommerce",
-      "projectPath": "C:\\Users\\Luca\\Desktop\\Programación\\Base de datos II\\WebApp Ecommerce\\WebApp Ecommerce BBDD II\\WebApp Ecommerce\\WebApp Ecommerce.csproj",
+      "projectPath": "C:\\Users\\Luca\\Desktop\\Programación\\Base de datos II\\WebApp Ecommerce\\WebApp-Ecommerce-BBDD-II\\WebApp Ecommerce\\WebApp Ecommerce.csproj",
       "packagesPath": "C:\\Users\\Luca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luca\\Desktop\\Programación\\Base de datos II\\WebApp Ecommerce\\WebApp Ecommerce BBDD II\\WebApp Ecommerce\\obj\\",
+      "outputPath": "C:\\Users\\Luca\\Desktop\\Programación\\Base de datos II\\WebApp Ecommerce\\WebApp-Ecommerce-BBDD-II\\WebApp Ecommerce\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
