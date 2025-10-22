@@ -1004,6 +1004,19 @@
           }
         }
       },
+      "Ecommerce.Aplicaciones/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Ecommerce.Dominio": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Ecommerce.Aplicaciones.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ecommerce.Aplicaciones.dll": {}
+        }
+      },
       "Ecommerce.Dominio/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -1018,6 +1031,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
+          "Ecommerce.Aplicaciones": "1.0.0",
           "Ecommerce.Dominio": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.10"
         },
@@ -2812,6 +2826,11 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Ecommerce.Aplicaciones/1.0.0": {
+      "type": "project",
+      "path": "../Ecommerce.Aplicaciones/Ecommerce.Aplicaciones.csproj",
+      "msbuildProject": "../Ecommerce.Aplicaciones/Ecommerce.Aplicaciones.csproj"
     },
     "Ecommerce.Dominio/1.0.0": {
       "type": "project",

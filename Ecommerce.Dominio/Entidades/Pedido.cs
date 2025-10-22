@@ -29,5 +29,10 @@ namespace Ecommerce.Dominio.Entidades
 
         // Un pedido puede tener uno o más envíos
         public ICollection<Envio> Envios { get; private set; } = new List<Envio>();
+
+        public void AgregarDetalle(DetallePedido detalle)
+        {
+            Detalles.Add(detalle);
+        }
     }
 }

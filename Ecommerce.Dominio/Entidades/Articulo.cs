@@ -9,8 +9,8 @@ namespace Ecommerce.Dominio.Entidades
     public class Articulo // La variante específica (SKU)
     {
         public int Sku { get; private set; } // PK de la tabla ARTICULO
-        public string Color { get; private set; }
-        public string Talle { get; private set; }
+        public string Color { get; private set; } = null!;
+        public string Talle { get; private set; } = null!;
         public int CantidadStock { get; private set; }
         public decimal Precio { get; private set; }
 

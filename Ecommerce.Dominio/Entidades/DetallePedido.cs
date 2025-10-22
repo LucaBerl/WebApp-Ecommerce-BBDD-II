@@ -22,5 +22,13 @@ namespace Ecommerce.Dominio.Entidades
         // Propiedades de navegación
         public Pedido Pedido { get; private set; } = null!;
         public Articulo Articulo { get; private set; } = null!;
+
+        public void AgregarArticulo(Articulo articulo, int cantidad)
+        {
+            Articulo = articulo;
+            ArticuloSku = articulo.Sku;
+            Cantidad = cantidad;
+            PrecioUnitario = articulo.Precio;
+        }
     }
 }

@@ -1,4 +1,6 @@
 using Ecommerce.Infraestructura;
+using Ecommerce.Aplicaciones.Interfaces;
+using Ecommerce.Infraestructura.Repositorios;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,6 +14,8 @@ var connectionString = builder.Configuration.GetConnectionString("DefaultConnect
 // Registra ECommerceDbContext como un servicio
 builder.Services.AddDbContext<EcommerceDbContext>(options =>
     options.UseSqlServer(connectionString));
+
+builder.Services.AddScoped<IProductoRepository, ProductoRepository>();
 
 var app = builder.Build();
 

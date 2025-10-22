@@ -1004,6 +1004,19 @@
           }
         }
       },
+      "Ecommerce.Aplicaciones/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Ecommerce.Dominio": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Ecommerce.Aplicaciones.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ecommerce.Aplicaciones.dll": {}
+        }
+      },
       "Ecommerce.Dominio/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -2799,6 +2812,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "Ecommerce.Aplicaciones/1.0.0": {
+      "type": "project",
+      "path": "../Ecommerce.Aplicaciones/Ecommerce.Aplicaciones.csproj",
+      "msbuildProject": "../Ecommerce.Aplicaciones/Ecommerce.Aplicaciones.csproj"
+    },
     "Ecommerce.Dominio/1.0.0": {
       "type": "project",
       "path": "../Ecommerce.Dominio/Ecommerce.Dominio.csproj",
@@ -2807,6 +2825,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Ecommerce.Aplicaciones >= 1.0.0",
       "Ecommerce.Dominio >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.10"
     ]
@@ -2843,6 +2862,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "C:\\Users\\Luca\\Desktop\\Programación\\Base de datos II\\WebApp Ecommerce\\WebApp-Ecommerce-BBDD-II\\Ecommerce.Aplicaciones\\Ecommerce.Aplicaciones.csproj": {
+              "projectPath": "C:\\Users\\Luca\\Desktop\\Programación\\Base de datos II\\WebApp Ecommerce\\WebApp-Ecommerce-BBDD-II\\Ecommerce.Aplicaciones\\Ecommerce.Aplicaciones.csproj"
+            },
             "C:\\Users\\Luca\\Desktop\\Programación\\Base de datos II\\WebApp Ecommerce\\WebApp-Ecommerce-BBDD-II\\Ecommerce.Dominio\\Ecommerce.Dominio.csproj": {
               "projectPath": "C:\\Users\\Luca\\Desktop\\Programación\\Base de datos II\\WebApp Ecommerce\\WebApp-Ecommerce-BBDD-II\\Ecommerce.Dominio\\Ecommerce.Dominio.csproj"
             }
